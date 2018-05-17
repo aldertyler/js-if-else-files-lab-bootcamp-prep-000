@@ -1,8 +1,6 @@
-var name = "Joe";
-var height = "74";
-if (name === "Susan") {
-  cosole.log("The name is correct")
-}
+var name = "Joe"
+var height = "74"
+
 
 // Don't worry about this
 module.exports = { name, height
